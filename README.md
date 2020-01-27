@@ -1,3 +1,7 @@
+This repo is a fork of the PyTorch tutorial on AMLD2020. There are 6 colab notebooks one for each topic covered, some of them with exercises to do yourself. There are other 6 named ALEX_... These are the same notebook with additional comments and the solved exercises. The first two are very basic and focused on operations with vectors/matrices/tensors. Things like reshaping, masking, adding and removing dimensions, etc. Useful to know and to have a look for the error messages. Normally the pytorch modules take care of these things for you, but worth having a quick look.
+
+The workshop was very good and these notebooks are great as a reference of a basic workflow.
+
 This is a tutorial presented during a [workshop](https://appliedmldays.org/workshops/pytorch-tutorial) at the Applied Machine Learning Days 2020.
 
 It consists of 6 interactive Jupyter notebooks.
